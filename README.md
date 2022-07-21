@@ -1,0 +1,2 @@
+# Covid-19-detetection-from-chest-X-ray-using-deep-learning
+Any approach for detecting COVID-19 infection that is automated, reliable, and accurate would be advantageous for quick diagnosis and limiting medical or healthcare professional exposure to the virus. Convolutional Neural Networks (CNNs) have been proven to be effective in the categorization of medical pictures. In this work, a CNN is used to suggest an autonomous deep learning classification strategy for identifying COVID-19 from chest X-ray pictures.
